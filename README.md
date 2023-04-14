@@ -1,4 +1,4 @@
-# 🔖 Lading Page Natours
+# 🔖 Landing Page Natours
 
 Es una página web de excursiones al aire libre y acampar, con diferentes tipos de paquetes, con referencias de personas y un formulario de contacto. Y es responsive desing. Se desarrollo principal mente con Html, Sass el preprocesador de csss y tambien Css 3
 
@@ -25,7 +25,7 @@ Dejare la documentación de mozilla.org:
 
 ## 📖 Características
 
-- **Lading Page:** página web de excursiones al aire libre y acampar.
+- **Landing Page:** página web de excursiones al aire libre y acampar.
 - **Responsive Desing:** Tiene diseño responsivo.
 - **Paquetes:** diferentes tipos de paquetes,
 - **Referencias:** referencias de personas
